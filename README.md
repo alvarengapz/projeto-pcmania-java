@@ -4,11 +4,11 @@
 **Curso:** GET  
 **Matrícula:** 9851  
 
----
+------    -    ------    -    ------
 
 ## Uso de Inteligência Artificial
 
-* **Modelo utilizado:** Gemini
+* **Modelo utilizado:** Gemini 3.6 Flash.
 * **Resultado:** Satisfatório (me ajudou com ideias, refinar os códigos e, principalmente, corrigir erros de sintaxe).
 * **Link do Chat:** https://share.gemini.google/d59qzM53vM7L
 
