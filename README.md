@@ -1,7 +1,5 @@
 # projeto-pcmania-java
 
-# projeto-pcmania-java
-
 **Aluno:** Pedro José Alvarenga Pereira  
 **Curso:** GET  
 **Matrícula:** 9851  
